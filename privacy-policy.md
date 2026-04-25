@@ -69,9 +69,9 @@ Muhammad Arif Shabab ("we," "our," or "us") operates the Truck Driving Offroad C
 
 - **No account required:** The App does not require you to create an account. We do not collect your email address, username, or similar account credentials through the App for registration purposes.
 
-- **Wallpaper and app preferences:** Data you generate in the App may include:
-  - Favorite wallpapers and saved wallpaper metadata
-  - Theme and display preferences
+- **Game progress and preferences:** Data you generate in the Game may include:
+  - Game progress and level completion status
+  - Gameplay settings and control preferences (for example sensitivity, camera, audio)
   - Onboarding and privacy or advertising consent choices
 
   Much of this information is stored locally on your device (see Data Storage and Security).
@@ -90,7 +90,7 @@ Muhammad Arif Shabab ("we," "our," or "us") operates the Truck Driving Offroad C
 
 We use the information described above for various purposes:
 
-- **To provide and maintain our Service:** Including browsing, searching, displaying, and downloading wallpapers.
+- **To provide and maintain our Service:** Including running the game, enabling gameplay features, and delivering core functionality.
 
 - **To remember your preferences:** Such as favorites, theme, and consent settings stored on your device.
 
@@ -128,7 +128,7 @@ We do not sell your personal information. We may share or allow processing of in
 
 We may rely on third-party service providers who assist us by:
 
-- Providing wallpaper content and metadata (for example via the Pexels API)
+- Operating essential third-party services that support gameplay features and app functionality (where integrated)
 
 - Delivering and measuring advertisements (for example Google AdMob)
 
@@ -146,9 +146,9 @@ In the event of a merger, acquisition, or sale of assets, information may be tra
 
 ### Access and Control
 
-- **View your data:** You can view favorites and preferences within the App.
+- **View your data:** You can view game progress (where applicable) and preferences within the App.
 
-- **Delete your data:** You can clear app storage, remove favorites, or uninstall the App. Wallpapers saved to your photo library can be deleted using your device's gallery or files app.
+- **Delete your data:** You can clear app storage (if your platform supports it) or uninstall the App. Any game-related files stored on your device can be removed using your device settings.
 
 - **Advertising and privacy settings:** You can adjust related options in the App (where available) and in your device's privacy and advertising settings (for example limit ad tracking or reset advertising identifiers).
 
@@ -166,8 +166,6 @@ In the event of a merger, acquisition, or sale of assets, information may be tra
 
 Our App relies on third-party services. We are not responsible for the privacy practices of these third parties. We encourage you to read their privacy policies:
 
-- **Pexels** — Wallpaper images and metadata may be retrieved from Pexels. [Pexels Privacy Policy](https://www.pexels.com/privacy-policy/)
-
 - **Google Mobile Ads (AdMob)** — Ads may be shown through Google's advertising platform. [Google Privacy Policy](https://policies.google.com/privacy), [How AdMob uses data](https://support.google.com/admob/answer/6128543)
 
 Our App may also open links to third-party websites or services; their policies apply when you use them.
@@ -182,7 +180,7 @@ Our Service is not intended for children under the age of 13. We do not knowingl
 
 ## International Data Transfers
 
-Your information may be transferred to and processed in countries other than your own when you use third-party services (such as Pexels or Google). Those providers describe their practices and safeguards in their own policies. Where required, we rely on appropriate mechanisms permitted by applicable data protection laws.
+Your information may be transferred to and processed in countries other than your own when you use third-party services (such as Google). Those providers describe their practices and safeguards in their own policies. Where required, we rely on appropriate mechanisms permitted by applicable data protection laws.
 
 ## Changes to This Privacy Policy
 
@@ -248,6 +246,6 @@ If you are in the European Union, you may have the following rights:
 
 - Right to withdraw consent
 
-To exercise these rights, please contact us using the information provided above. Some requests relating to data held only by third parties (such as Google or Pexels) may need to be directed to those providers as well.
+To exercise these rights, please contact us using the information provided above. Some requests relating to data held only by third parties (such as Google) may need to be directed to those providers as well.
 
 _This Privacy Policy is effective as of the date listed above and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page._
